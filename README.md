@@ -2,7 +2,7 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
 
-Very Simmple todo list while I begin learning Angular
+Very Simple todo list while I begin learning Angular
 
 
 ## Development server
